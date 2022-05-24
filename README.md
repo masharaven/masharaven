@@ -8,4 +8,4 @@
 masharaven/masharaven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![ccade's 42 stats](https://badge42.vercel.app/api/v2/cl252izkc000609jslnvrdeo6/stats?cursusId=21&coalitionId=102)](https://github.com/JaeSeoKim/badge42)
+[![ccade's 42 stats](https://badge42.vercel.app/api/v2/cl3ket5tw00140al0g2s6bdkx/stats?cursusId=21&coalitionId=103)](https://github.com/JaeSeoKim/badge42)
